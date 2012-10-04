@@ -8,6 +8,6 @@
     "contributors":[ {"name": "Camilo Aguilar", "email": "camilo@buglabs.net"}],
     "dependencies": {
        "node-expat": "https://github.com/TooTallNate/node-expat.gits"
-    }https://github.com/mtipnis/node-xml2json/blob/master/package.json
+    }
 }
 
