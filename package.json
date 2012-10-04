@@ -7,7 +7,7 @@
     "main": "index", 
     "contributors":[ {"name": "Camilo Aguilar", "email": "camilo@buglabs.net"}],
     "dependencies": {
-       "node-expat": "https://github.com/TooTallNate/node-expat.gits"
+       "node-expat": "https://github.com/TooTallNate/node-expat/tarball/master"
     }
 }
 
